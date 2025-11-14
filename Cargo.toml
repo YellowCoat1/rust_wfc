@@ -1,0 +1,14 @@
+[package]
+name = "wfc"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.9.0"
+owo-colors = "4.1.0"
+clap = { version = "4.5.31", features = ["derive"] }
+termion = "4.0.4"
+
+[features]
+debug = []
+
