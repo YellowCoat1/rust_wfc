@@ -1,0 +1,4 @@
+i# wfc
+Displays a neat visual using wave function collapse algorithm in the terminal.
+
+![wfc example](https://raw.githubusercontent.com/yellowcoat1/rust_wfc/main/wfc_example.png)
